@@ -15,7 +15,7 @@ function App() {
         }}
       >
         <div className="bg-black bg-opacity-60 p-6 rounded-2xl max-w-xl mx-auto text-white">
-          <h1 className="text-4xl sm:text-5xl font-bold mb-4">Aerial Visions by Nikita Tarlo</h1>
+          <h1 className="text-4xl sm:text-5xl font-bold mb-4">Aerial Visions</h1>
           <p className="text-base sm:text-xl">Stunning drone photography and cinematography</p>
         </div>
       </header>
@@ -90,7 +90,7 @@ function App() {
 
       {/* Footer */}
       <footer className="text-center text-sm py-6 bg-black border-t border-gray-700">
-        &copy; {new Date().getFullYear()} Nikita Tarlo | Drone Portfolio
+        &copy; {new Date().getFullYear()} DJI Mini 4 Pro | Drone Portfolio
       </footer>
     </div>
   );
